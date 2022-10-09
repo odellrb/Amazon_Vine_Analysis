@@ -14,5 +14,5 @@ We focused on the US reviews for pet products.
 
 ## Summary
 
-38.24% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 54.47%. These results have no positivity bias for reviews in the Vine program.
+38.24% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 54.47%. These results do not suggest that there is a positivity bias for reviews in the Vine program.
 Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
