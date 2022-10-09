@@ -8,5 +8,11 @@ We focused on the US reviews for pet products.
 
 ## Results
 
+* There were 170 Vine reviews and 37,340 non-Vine reviews.
+* There were 65 Vine 5 star reviews and 20,612 non-Vine 5 star reviews.
+* 38.24% were Vine 5 str reviews and 54.47% were non-Vine 5 star reviews.
+
 ## Summary
 
+38.24% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 54.47%. These results have no positivity bias for reviews in the Vine program.
+Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
