@@ -1,4 +1,4 @@
-![Amazon_vine_header](/Resources/Statistics_R.png)
+![Amazon_vine_header](BigData.png)
 # Amazon_Vine_Analysis
 
 ## Overview of Analysis
